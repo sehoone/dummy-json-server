@@ -1,0 +1,28 @@
+{
+  "name": "dummy-json-server",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Description for dummy-json-server",
+  "license": "UNLICENSED",
+  "scripts": {
+    "json-server": "node src/jsonserver/server.js"
+  },
+  "config": {
+    "backend_port": "4290"
+  },
+  "browserslist": [
+    "> 1%",
+    "not ie < 11",
+    "chrome >= 74"
+  ],
+  "dependencies": {
+    "json-server": "^0.17.3"
+  },
+  "engines": {
+    "node": ">=16.14.0",
+    "npm": ">= 6.14.4"
+  },
+  "cacheDirectories": [
+    "node_modules"
+  ]
+}

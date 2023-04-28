@@ -1,0 +1,30 @@
+{
+  "home": {
+    "code": 200,
+    "msg": "ok",
+    "alarm": {
+      "newYn": "true",
+      "recent": {
+        "title": "알림!알림 제목입니다.",
+        "content": "알려드립니다, 이것은 알림내용입니다.",
+        "regDate": "2022-03-04"
+      }
+    },
+    "noticeYn": "false"
+  },
+  "exhibition": [
+    { "exhibition_id": 1, "gallery_id": 1, "exhibition_name": "페인팅의 진화","exhibition_description":"인간은 동굴에 살던 시절부터 끊임없이 그림을 그려왔다. 동굴의 벽에서부터, 동물의 가죽과 천으로 만든 캔버스, 종이까지, 사람들은 미디엄을 가리지 않고 자신의 감정과 신념 등을 그림으로 남겨왔다. 디지털의 세계가 오고 있지만, 사람들은 아직 그림을 그린다.","exhibition_category":"Painting","exhibition_rprsn_img_url":"https://i.seadn.io/gcs/files/8292b16ba49bffeabf2626f64db9566b.png?auto=format&w=1000","exhibition_start_date":"2023.03.17","exhibition_end_date":"2023.03.24","exhibition_visit_count":0, "exhibition_qr_link":"http://naver.com" },
+    { "exhibition_id": 2, "gallery_id": 1, "exhibition_name": "점 선 면","exhibition_description":"도형의 기본 요소 세 가지가 무엇일까요? 수학에서 정의하고 있는 3요소는 바로 점, 선, 면입니다. 여러 도형의 조합으로 이루어진 평면의 그림도, 입체의 조형도 바로 이 세 요소들이 다양하게 조합되어 이루어지게 됩니다. 작가들의 창의적인 조합들을 한 번 살펴볼까요?","exhibition_category":"Installation, Painting","exhibition_rprsn_img_url":"https://i.seadn.io/gcs/files/8b29c18eaba06d91a7790c1bc79a98bf.jpg?auto=format&w=1000","exhibition_start_date":"2023.03.29","exhibition_end_date":"2023.04.03","exhibition_visit_count":0, "exhibition_qr_link":"http://naver.com" },
+    { "exhibition_id": 3, "gallery_id": 1, "exhibition_name": "반 고흐 인 메타버스","exhibition_description":"여러분들은 셀카(Sel-Ca)나 셀피(Selfie)를 찍어본 적이 있나요? 그렇다면 빈센트 반 고흐의 자화상을 본 적은요? 고흐가 살던 시대에서 200년 가까이 흘렀지만, 사람은 자신의 모습을 어떤 방식으로든 표현하고자 합니다. 여기, 독특한 시선으로 자신을 표현하며 살아가는 사람들이 있습니다.","exhibition_category":"Painting","exhibition_rprsn_img_url":"https://i.seadn.io/gae/-BxO28hFhtaViexbG0hBi20w3S0xAiDLz3XkPnCBP9t8QwSVH34GXAf0cIi0l-P1Qp6lmQoPHtjrp1rS-ZE6-hYUaA?auto=format&w=1000","exhibition_start_date":"2023.04.04","exhibition_end_date":"2023.04.26","exhibition_visit_count":0, "exhibition_qr_link":"http://naver.com" },
+    { "exhibition_id": 4, "gallery_id": 1, "exhibition_name": "김건 개인전","exhibition_description":"한국을 너무 사랑하여 한국 이름을 김 건(Gim Gun)이라고 지은 지프 미하일리. 총(Gun)이라고 이름을 지은 거친 이미지와는 다르게, 그의 사진은 왠지 모르게 동양적이고, 몽환적인 느낌을 줍니다. ","exhibition_category":"Photography","exhibition_rprsn_img_url":"https://i.seadn.io/gcs/files/68b60fe070f9118824e775caddaec44f.jpg?auto=format&w=1000","exhibition_start_date":"2023.04.27","exhibition_end_date":"2023.04.30","exhibition_visit_count":0, "exhibition_qr_link":"http://naver.com" },
+    { "exhibition_id": 5, "gallery_id": 1, "exhibition_name": "나비도 꽃이었다","exhibition_description":"몽환적인 그림과 꿈결같은 사진","exhibition_category":"Painting","exhibition_rprsn_img_url":"https://i.seadn.io/gcs/files/01e7518c3ec17f9ae56cee9341e4db6b.jpg?auto=format&w=1000","exhibition_start_date":"2023.05.30","exhibition_end_date":"2023.06.10","exhibition_visit_count":0, "exhibition_qr_link":"http://naver.com" },
+    { "exhibition_id": 6, "gallery_id": 1, "exhibition_name": "전시1","exhibition_description":"전시1","exhibition_category":"Painting","exhibition_rprsn_img_url":"https://images.unsplash.com/photo-1504253163759-c23fccaebb55?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80","exhibition_start_date":"2023.05.30","exhibition_end_date":"2023.06.10","exhibition_visit_count":0, "exhibition_qr_link":"http://naver.com" }
+  ],
+  "exhibitionartworks": [
+    {"artwork_id": 1, "artist_name":"anim8l", "chain_name":"ETH", "artwork_name":"SILENT FORM", "artwork_qr_link":"", "artwork_img_link":"https://i.seadn.io/gcs/files/8292b16ba49bffeabf2626f64db9566b.png?auto=format&w=1000", "artwork_current_price":"1.56"},
+    {"artwork_id": 6, "artist_name":"forsart", "chain_name":"ETH", "artwork_name":"5th Dimensional", "artwork_qr_link":"", "artwork_img_link":"https://ipfs.pixura.io/ipfs/QmfDsttBhQBdq4eAQGSTNwTbSatBoNSEYmtJkNDR1Hyhou/5.Boyut.jpg", "artwork_current_price":"1.13"},
+    {"artwork_id": 7, "artist_name":"benzank", "chain_name":"ETH", "artwork_name":"Feeling Divided", "artwork_qr_link":"", "artwork_img_link":"https://ipfs.pixura.io/ipfs/QmU9e9ku2dJGM7mpyxXEqE4vRLtkKcVLQrzx3YWjrYcEdy/feelingdivided.jpg", "artwork_current_price":"0.88"},
+    {"artwork_id": 8, "artist_name":"mew_psd", "chain_name":"ETH", "artwork_name":"insomniac.", "artwork_qr_link":"", "artwork_img_link":"https://ipfs.pixura.io/ipfs/QmRk5jWmtNDo8drhFuaKvdL4GaX2ccuJNCzxqZAmtjDoQ4/womanwhiteshirtbluebackground.png", "artwork_current_price":"0.88"},
+    {"artwork_id": 9, "artist_name":"natehill", "chain_name":"ETH", "artwork_name":"I can't go back", "artwork_qr_link":"", "artwork_img_link":"https://ipfs.pixura.io/ipfs/QmaJ7We6vhUEfdJWiDCRoa98m2crDLaV8BGcPCnvKDnyTq/ICantGoBack.jpg", "artwork_current_price":"0.12"}
+  ]
+}
