@@ -24,6 +24,7 @@ const apis = {
 apiList.forEach((x) => {
   if (apis[x.name]) {
     server[x.method](x.url, (req, res) => {
+      res.header('Content-Type', 'application/json;charset=UTF-8');
       res.send(JSON.stringify(apis[x.name]));
     });
   }
